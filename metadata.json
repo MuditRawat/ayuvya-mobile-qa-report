@@ -1,0 +1,6 @@
+{
+  "name": "QA Interview Assignment - Ayuvya App",
+  "description": "Comprehensive Manual QA Testing Report & Test Suite for Ayuvya Mobile Application by Mudit Rawat",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
